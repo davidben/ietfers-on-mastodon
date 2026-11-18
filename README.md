@@ -19,3 +19,4 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - Paul Hoffman: [@paulehoffman@infosec.exchange](https://infosec.exchange/@paulehoffman)
 - Wes Hardaker: [@hardaker@fosstodon.org](https://fosstodon.org/@hardaker)
 - Christian Huitema [@huitema@social.secret.org](https://social.secret-wg.org/@huitema)
+- Rich Salz: [@rsalz@ioc.exchange](https://ioc.exchange/@rsalz)
