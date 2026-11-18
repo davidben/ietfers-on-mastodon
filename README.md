@@ -21,3 +21,5 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - Rich Salz: [@rsalz@ioc.exchange](https://ioc.exchange/@rsalz)
 - Sophie Schmieg: [@sophieschmieg@infosec.exchange](https://infosec.exchange/@sophieschmieg)
 - Wes Hardaker: [@hardaker@fosstodon.org](https://fosstodon.org/@hardaker)
+
+Dan York has created a Mastodon "collection" for this list [here](https://mastodon.social/collections/117635607178373643).
