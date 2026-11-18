@@ -4,6 +4,7 @@ There will be an informal gathering of all IETFers who are active (or even passi
 
 - Aaron Parecki: @aaronpk@aaronparecki.com
 - Andy Newton: @andy@novalug.org
+- Christian Amsüss: [@chrysn@chaos.social](https://chaos.social/@chrysn)
 - Dan York: @danyork@mastodon.social
 - Emelia Smith: @thisismissem.social@bsky.brid.gy (formerly @thisismissem@hachyderm.io)
 - Erik Nygren: @nygren@hachyderm.io  (redirected to by @erik@nygren.org)
