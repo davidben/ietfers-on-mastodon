@@ -16,6 +16,7 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - Jim Fenton: [@jimfenton@infosec.exchange](https://infosec.exchange/@jimfenton)
 - John Kristoff: [@jtk@infosec.exchange](https://infosec.exchange/@jtk)
 - John Levine: [@spamvictim@infosec.exchange](https://infosec.exchange/@spamvictim) (also [@compcompilers@infosec.exchange](https://infosec.exchange/@compcompilers), announcing newsgroup posts)
+- Julian Reschke [@jreschke@det.social](https://det.social/@jreschke)
 - Olaf Kolkman: [@olaf@social.secret-wg.org](https://social.secret-wg.org/@olaf)
 - Paul Hoffman: [@paulehoffman@infosec.exchange](https://infosec.exchange/@paulehoffman)
 - Paul Wouters: [@letoams@defcon.social](https://defcon.social/letoams)
