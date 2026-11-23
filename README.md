@@ -18,7 +18,7 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - John Levine: [@spamvictim@infosec.exchange](https://infosec.exchange/@spamvictim) (also [@compcompilers@infosec.exchange](https://infosec.exchange/@compcompilers), announcing newsgroup posts)
 - Olaf Kolkman: [@olaf@social.secret-wg.org](https://social.secret-wg.org/@olaf)
 - Paul Hoffman: [@paulehoffman@infosec.exchange](https://infosec.exchange/@paulehoffman)
-- Paul Wouters: [@letoams@defcon.social]
+- Paul Wouters: [@letoams@defcon.social](https://defcon.social/letoams)
 - Rich Salz: [@rsalz@ioc.exchange](https://ioc.exchange/@rsalz)
 - Sophie Schmieg: [@sophieschmieg@infosec.exchange](https://infosec.exchange/@sophieschmieg)
 - Wes Hardaker: [@hardaker@fosstodon.org](https://fosstodon.org/@hardaker)
